@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Software Development 
 - 🌱 I’m currently learning ... Frontend Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...sanya.1777.xi.b@gmail.com
+- 📫 How to reach me ...sanyavohra12@gmail.com
 
 <!---
 vohrasanya/vohrasanya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
