@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vohrasanya
 - 👀 I’m interested in ... Software Development 
-- 🌱 I’m currently learning ... Frontend Development
+- 🌱 I’m currently learning ... Flutter 
 - 📫 How to reach me ...sanyavohra12@gmail.com
 
 <!---
