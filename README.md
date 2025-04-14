@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Python , JAVA , C ,C++ , HTML**
+- 💬 Ask me about **Python , JAVASCRIPT , CSS ,C++ , HTML**
 
 - 📫 How to reach me **sanyavohra12@gmail.com**
 
