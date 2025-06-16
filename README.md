@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vohrasanya&label=Profile%20views&color=0e75b6&style=flat" alt="vohrasanya" /> </p>
 
-- 🔭 I’m currently working on **Stray Paws**
+- 🔭 I’m currently working on **QuickChat**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
